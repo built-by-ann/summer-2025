@@ -1,4 +1,4 @@
-# Summer 2025 Project Roadmap – Ann Mathew
+# Summer 2025 Project Roadmap
 
 This summer, I plan to build a diverse portfolio of applied AI and socially impactful tech projects. My work spans sustainability, fairness, infrastructure resilience, and ethical machine learning. Below is a summary of the key initiatives I'll be continuing and hopefully adding to Github soon:
 
